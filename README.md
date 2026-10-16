@@ -2,7 +2,7 @@
 
 一个轻量的 PowerShell 脚本，读取《明日方舟：终末地》**国服（Hypergryph）**的本地游戏日志，统计总游玩时长、每次会话记录和连续登录天数，并支持按日期查询当天的详细记录。
 
-> 本项目基于 **[endfield-playtime-checker](https://github.com/genrusaii/endfield-playtime-checker)** 修改而来，感谢原作者。修改过程中使用了Claude-Sonnet 5.5
+> 本项目基于 **[endfield-playtime-checker](https://github.com/genrusaii/endfield-playtime-checker)** 修改而来，感谢原作者。修改过程中使用了Claude-Sonnet 5.5 。
 > 原版面向国际服（Gryphline），本版本调整为国服路径并中文化，同时新增了"按日期查询"功能。
 
 ## 特点
